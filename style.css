@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+    padding: 0;
+}
+
+li{
+    list-style-type: none;
+    
+}
+
+.focused{
+    border: 80px solid red;
+}
+.first-screen{
+    margin: auto;
+}
+
+.accounts{
+    
+    display: flex;
+}
+
+.add-account{
+    height: 50px;
+    width: 100px;
+    margin-left: 300px;
+}
+
+
+.second-screen{
+margin: auto;
+}
+.buttons-add-cancel{
+    display: flex;
+    margin-top: 50px;
+}
+.add-to-account{
+    height: 50px;
+    width: 100px;
+    margin-right: 100px;
+}
+.cancel{
+    height: 50px;
+    width: 100px;
+}
